@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: e56e140fd713c4b45a7f39e27336638b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4193310686833412632
+    second: GAME FINISHED_0
+  - first:
+      213: -8064226925467520488
+    second: GAME FINISHED_1
+  - first:
+      213: 1123329899517098146
+    second: GAME FINISHED_2
+  - first:
+      213: -5150138540452771501
+    second: GAME FINISHED_3
+  - first:
+      213: -476068978913981942
+    second: GAME FINISHED_4
+  - first:
+      213: -7275143239894442263
+    second: GAME FINISHED_5
+  - first:
+      213: 7159093367634700190
+    second: GAME FINISHED_6
+  - first:
+      213: -8109580622464913286
+    second: GAME FINISHED_7
+  - first:
+      213: 7635556920943545198
+    second: GAME FINISHED_8
+  - first:
+      213: 1914693617744800319
+    second: GAME FINISHED_9
+  - first:
+      213: -8600731985926973947
+    second: GAME FINISHED_10
+  - first:
+      213: -4463235412520778802
+    second: GAME FINISHED_11
+  - first:
+      213: -3733650069474965994
+    second: GAME FINISHED_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GAME FINISHED_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 573
+        width: 117
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a0e814ad1a13a30800000000000000
+      internalID: 4193310686833412632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME FINISHED_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 572
+        width: 139
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8123e5f565c161090800000000000000
+      internalID: -8064226925467520488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME FINISHED_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 570
+        width: 112
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8ba4a879ed69f00800000000000000
+      internalID: 1123329899517098146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME FINISHED_3
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 557
+        width: 118
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3598348b8480788b0800000000000000
+      internalID: -5150138540452771501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME FINISHED_4
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 577
+        width: 97
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0acf3739c9a469f0800000000000000
+      internalID: -476068978913981942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME FINISHED_5
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 573
+        width: 57
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eed108c4cf790b90800000000000000
+      internalID: -7275143239894442263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME FINISHED_6
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 575
+        width: 90
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97a8b3cc753a5360800000000000000
+      internalID: 7159093367634700190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME FINISHED_7
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 573
+        width: 57
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a707698e36bf47f80800000000000000
+      internalID: -8109580622464913286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME FINISHED_8
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 570
+        width: 101
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b8d1f8092f6f960800000000000000
+      internalID: 7635556920943545198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME FINISHED_9
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 575
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ae26b63bb529a10800000000000000
+      internalID: 1914693617744800319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME FINISHED_10
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 557
+        width: 195
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5069b72d3df04a880800000000000000
+      internalID: -8600731985926973947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME FINISHED_11
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 574
+        width: 52
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec341cf1a076f02c0800000000000000
+      internalID: -4463235412520778802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME FINISHED_12
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 599
+        width: 44
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61605552b096f2cc0800000000000000
+      internalID: -3733650069474965994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GAME FINISHED_0: 4193310686833412632
+      GAME FINISHED_1: -8064226925467520488
+      GAME FINISHED_10: -8600731985926973947
+      GAME FINISHED_11: -4463235412520778802
+      GAME FINISHED_12: -3733650069474965994
+      GAME FINISHED_2: 1123329899517098146
+      GAME FINISHED_3: -5150138540452771501
+      GAME FINISHED_4: -476068978913981942
+      GAME FINISHED_5: -7275143239894442263
+      GAME FINISHED_6: 7159093367634700190
+      GAME FINISHED_7: -8109580622464913286
+      GAME FINISHED_8: 7635556920943545198
+      GAME FINISHED_9: 1914693617744800319
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
